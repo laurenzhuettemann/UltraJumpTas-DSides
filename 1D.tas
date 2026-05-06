@@ -1,6 +1,6 @@
-RecordCount: 6866
+RecordCount: 7066
 
-console load nameguysdsidespack/0/1-City
+console load monikadsidespack/0/1-City
    1
 
 Set ExtendedVariantMode.EveryJumpIsUltra true
@@ -116,48 +116,48 @@ Set ExtendedVariantMode.EveryJumpIsUltra true
    2,R,J
    1,R
    3,R,J
-   6,R
-   1
+   7,R
    1,R,J
    1,L,J
    1,K,G
-   3,R,J
+   7,R,J
   15,U,X
-  10
+   1
+   1,J,G
+   3
+   1,L
+   3,R
    1,G
    2,J,G
    1,L
    6,R
-   1,G
+   2,G
    1,J,G
-   3,L,J
+   1,L
+   1,R
    1,K
-   1,R,J,G
+   1,J,G
    1,R,K,G
    1,R,J,G
    6,R
-   3
-  13,R,D
-   2,R
+   6
+  11,R,D
+   1,R
    1,R,D
-   1,J,G
-   1,L,J
-   1,K
-  11,L,K
+   2,R,J,G
+  10,L,K
    1,J
    4,R,J
-   3,K
-   1,L,K
-   6,J,G
-   1,R,J
-   5,J
+   1,L,J
+   1,K
+  11,L,J
+   3,R,K
    7,R
    4,Z
    2,R,J
    1,K,G
    5,R,K
-   2
-  40
+  42
 
 #lvl_a-05
    2
@@ -255,22 +255,26 @@ Set ExtendedVariantMode.EveryJumpIsUltra true
    5,J,G
    7,R,J
    5,R,X
-   5,R,J,G
+   4,R,J,G
    7,R
-   1,J
-   1,R,J
-   7,R
-   2,R,J,G
-   1,J
-   2
+   2,R,J
    3,R
-   4,R,J
-   6,K,G
+   4
+   1,R
+   1,R,J,G
+   1,L,J
+   1,K,G
+   7
+   1,R
+   9,R,J,G
+   9,R
   40
 
 #lvl_b-01
-   3,J
-   7
+   2,R,J
+   8,R
+   2,R,J
+   7,R
   34,U,G
    2,R
    2,R,J,G
@@ -519,6 +523,8 @@ Set ExtendedVariantMode.EveryJumpIsUltra true
    2,L,J
   10,U,X
   40
+
+#lvl_b-07
    3,R,J
   12,R,K,G
    8,R
@@ -532,66 +538,38 @@ Set ExtendedVariantMode.EveryJumpIsUltra true
    8,R,D
    2,D
   18,R,X
-  25,G
-   2,U,G
-   6,R,X
-   1,R,J,G
-   1,R
-   1,R,K,G
-   2,R
-   1,R,J,G
-   1,R
-   3,R,J,G
-   5,R
-   2,R,J
-   2,R
-   2,R,J
-  40
-   5,R
-   5,R,J
-   2,R
-   2,R,J
-   5
-   1,J
-  10,R
    1,G
-   1
-   6,L,D
-  18,D
-   3,L,D
-   1,D
-   1,J
-   1,K,G
-   7,K
-  21,R,D
-   1,L,D
-   1,J
-   1,K,G
-   2,K
+   9,J,G
+   7,R
+   2,R,J
+   2,R
    3
-   6,R
-   3
-  14,R,X
-   3,R,J,G
-   1,L,K,G
+   8,L,Z
    1,R,J
+   2,R,K,G
+   3,R,J,G
+   2,R,K,G
+   4,R,J,G
+   7,R
+  43,R,J
    7,R
    1,R,J
+  17,R,D
    1,R
-   6,R,J
-   5,R
-  18,R,U,X
-  15,U,C
-   1,R,K,G
-   4,L,K
-   1,R,K
-   4,R,J,G
-   2,R
-   1
-   4,R
-   8,R,Z
+   8,R,U,Z
+   1,L
+   9,J,G
    1,R,J
-  21,R
- 139,L,U,C
+   1,R,K,G
+   3,L,K
+   2,R,K
+   1,R,J,G
+   1,R,K,G
+   1,L
+   6,R
+  12,R,Z
+   1,R,J
+  18,R,D
+ 139,L,U,X
 
-ChapterTime: 0:56.372(3316)
+ChapterTime: 0:54.638(3214)
